@@ -1,0 +1,1 @@
+#temp의 값과 똑같이 apple banana cake 순으로 나올 것이다 
