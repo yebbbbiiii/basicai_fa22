@@ -1,0 +1,1 @@
+print("never;kakao;sk;samsung")
